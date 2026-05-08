@@ -49,5 +49,5 @@ numpy
 pandas
 matplotlib
 
-CS365 — Natural Language Processing | Assignment 2 | Dr. Fahman Saeed and Dr. Amal AlSaif | IMSIU.
+CS365 — Natural Language Processing | Assignment 2 | Dr. Fahman Saeed and Dr. Amal AlSaif | IMSIU
 
